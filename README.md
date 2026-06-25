@@ -1,16 +1,21 @@
-# Groq RAG Project
+# RAG Chatbot
 
-A Retrieval-Augmented Generation (RAG) application built using Qt and Groq API.
+A Retrieval-Augmented Generation (RAG) chatbot built using C++, Qt/QML, and the Groq API.
 
 ## Features
-- Document retrieval
-- AI-powered question answering
-- RAG pipeline
-- Qt-based GUI
+- Upload PDF documents
+- Ask questions based on uploaded documents
+- Context-aware responses using RAG
+- Modern Qt/QML interface
+- Chat history support
 
-## Technologies
+## Screenshot
+
+![RAG Chatbot Demo](screenshots/rag_chatbot_demo.png)
+
+## Technologies Used
 - C++
-- Python
 - Qt/QML
 - Groq API
 - RAG Architecture
+- PDF Processing
